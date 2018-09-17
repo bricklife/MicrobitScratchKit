@@ -1,2 +1,2 @@
 # MicrobitScratchKit
-micro:bit simulation SDK for Scratch 3.0
+micro:bit simulation library to communicate with Scratch 3.0
